@@ -1,5 +1,5 @@
 # Desarrollo de Aplicaciones Multiplataforma 
-## Kevin Vivas
+## kev312
 **Bienvenidos en mi proyecto de GitHub**
 - Proyecto1
 - Digitalizacion 
